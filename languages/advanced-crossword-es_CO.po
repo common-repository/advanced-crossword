@@ -1,0 +1,930 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Crossword\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-21 22:23+0000\n"
+"PO-Revision-Date: 2024-01-21 22:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Colombia)\n"
+"Language: es_CO\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: advanced-crossword"
+
+#. URI of the plugin
+msgid "#"
+msgstr "#"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:88
+msgid "(leave empty, or otherwise stated by developer)"
+msgstr "(déjelo vacío, o indique lo contrario el desarrollador)"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:413
+msgid "- To Save simply toggle back"
+msgstr "- Para guardar, basta con volver atrás"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:221
+msgid "2.Generate Numbers"
+msgstr "2.Generar números"
+
+#: templates/PcPuzzleCrosswordTemplate_Info.php:40
+msgid ""
+"Across and Down Clues can be toggle visible by clicking on the down / up "
+"arrows"
+msgstr ""
+"Las pistas transversales y descendentes pueden activarse y desactivarse "
+"pulsando las flechas abajo/arriba"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:489
+msgid "Across Clue"
+msgstr "Pista transversal"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:288
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:114
+msgid "Across Clues"
+msgstr "A través de pistas"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:32
+msgid "Action"
+msgstr "Acción"
+
+#. Name of the plugin
+msgid "Advanced Crossword"
+msgstr "Crucigrama avanzado"
+
+#. Description of the plugin
+msgid ""
+"Advanced Crossword lets you have full control over the crossword created. "
+"From custom grid size to cell size, font size, colors and many more."
+msgstr ""
+"Advanced Crossword le permite tener control total sobre el crucigrama creado."
+" Desde el tamaño personalizado de la cuadrícula hasta el tamaño de las "
+"celdas, el tamaño de la fuente, los colores y mucho más."
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:525
+msgid ""
+"Advanced Crossword License is not valid. Check the license or contact "
+"developer@tuskcode.com"
+msgstr ""
+"La licencia de Advanced Crossword no es válida. Compruebe la licencia o "
+"póngase en contacto con developer@tuskcode.com"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:327
+msgid "Alert message and labels"
+msgstr "Mensaje de alerta y etiquetas"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:38
+msgid "Alert Messages"
+msgstr "Mensajes de alerta"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:263
+msgid ""
+"Allow the player to view the solved puzzle after \n"
+"                                                    specific date and time. "
+"(Ideal when running competitions)"
+msgstr ""
+"Permitir al jugador ver el puzzle resuelto después de\n"
+"                                                    fecha y hora específicas."
+" (Ideal para competiciones)"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:524
+#: includes/w/W_PcPuzzleCrosswords_View.php:607
+msgid "Answer"
+msgstr "Respuesta"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:336
+msgid "Answers are available to view from "
+msgstr "Las respuestas pueden consultarse en"
+
+#: includes/PcPuzzleCrossword_Plugin.php:89
+msgid "Are you sure you want to clear all answer cells?"
+msgstr "¿Estás seguro de que quieres borrar todas las celdas de respuesta?"
+
+#: includes/PcPuzzleCrossword_Plugin.php:88
+msgid "Are you sure you want to clear all blank cells?"
+msgstr "¿Estás seguro de que quieres borrar todas las celdas en blanco?"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:330
+msgid "Are you sure you want to clear the puzzle?"
+msgstr "¿Estás seguro de que quieres despejar el puzzle?"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:116
+msgid "Are you sure you want to delete it?"
+msgstr "¿Seguro que quieres borrarlo?"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:331
+msgid "Are you sure you want to Reset to Default the Settings?"
+msgstr "¿Está seguro de que desea restablecer la configuración predeterminada?"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:212
+#: includes/w/W_PcPuzzleCrosswords_View.php:661
+msgid "Back"
+msgstr "Volver"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:301
+msgid "Blank Cell"
+msgstr "Celda en blanco"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:263
+msgid "Blank Cell Colour"
+msgstr "Color de la celda en blanco"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:384
+msgid "Border Collapse"
+msgstr "Colapso de las fronteras"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:159
+msgid "Button - Clear"
+msgstr "Botón - Borrar"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:313
+msgid "Button - Close"
+msgstr "Botón - Cerrar"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:346
+msgid "Button - No"
+msgstr "Botón - No"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:356
+msgid "Button - Ok"
+msgstr "Botón - Ok"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:169
+msgid "Button - Report Bug"
+msgstr "Botón - Informar de un fallo"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:303
+msgid "Button - Reset to Default"
+msgstr "Botón - Restablecer valores por defecto"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:149
+msgid "Button - Save"
+msgstr "Botón - Guardar"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:336
+msgid "Button - Yes"
+msgstr "Botón - Sí"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:148
+#: includes/w/W_PcPuzzleCrosswords_View.php:431
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:749
+msgid "Cannot show"
+msgstr "No se puede mostrar"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:292
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:94
+msgid "Cell"
+msgstr "Celda"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:302
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:233
+msgid "Cell Size"
+msgstr "Tamaño de la célula"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:129
+msgid "Cell Text Colour"
+msgstr "Color del texto de la celda"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:91
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:138
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:175
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:221
+msgid "Cell Text Font Size (rem)"
+msgstr "Tamaño de fuente del texto de la celda (rem)"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:80
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:127
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:164
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:210
+msgid "Cell Width (px)"
+msgstr "Ancho de celda (px)"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:82
+msgid "Checked / Unchecked Skip Filled Cells"
+msgstr "Activado / Desactivado Saltar celdas rellenas"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:402
+msgid "Clear All Answers"
+msgstr "Borrar todas las respuestas"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:393
+msgid "Clear All Blanks"
+msgstr "Borrar todos los espacios en blanco"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:534
+#: includes/w/W_PcPuzzleCrosswords_View.php:617
+msgid "Clear Answer"
+msgstr "Respuesta clara"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:507
+#: includes/w/W_PcPuzzleCrosswords_View.php:590
+msgid "Clear Clue"
+msgstr "Pista clara"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:547
+#: includes/w/W_PcPuzzleCrosswords_View.php:630
+msgid "Clear clue and answer"
+msgstr "Pista y respuesta claras"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:290
+msgid "Clear Date"
+msgstr "Borrar fecha"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:315
+msgid "Clear Puzzle"
+msgstr "Puzzle claro"
+
+#: templates/PcPuzzleCrosswordTemplate_Info.php:28
+msgid "Click on any cell to get started"
+msgstr "Haga clic en cualquier celda para empezar"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:420
+msgid "Click on the table cells to mark the blank cells"
+msgstr "Haga clic en las celdas de la tabla para marcar las celdas en blanco"
+
+#: templates/PcPuzzleCrosswordTemplate_Info.php:32
+msgid "Click on vertical / horizontal lines to change direction"
+msgstr ""
+"Haz clic en las líneas verticales / horizontales para cambiar de dirección"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:313
+msgid "Close Menu"
+msgstr "Cerrar Menú"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:291
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:84
+#: includes/w/W_PcPuzzleCrosswords_View.php:497
+#: includes/w/W_PcPuzzleCrosswords_View.php:503
+#: includes/w/W_PcPuzzleCrosswords_View.php:580
+#: includes/w/W_PcPuzzleCrosswords_View.php:586
+msgid "Clue"
+msgstr "Pista"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:74
+msgid "Clue Display (Above / Below Puzzle)"
+msgstr "Visualización de pistas (encima / debajo del puzzle)"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:290
+msgid "Clue Display - Press on any cell to start"
+msgstr "Pantalla de pistas - Pulsa en cualquier celda para empezar"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:304
+msgid "Clue No Size"
+msgstr "Pista No Tamaño"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:102
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:149
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:186
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:232
+msgid "Clue Number Font Size (rem)"
+msgstr "Número de pista Tamaño de fuente (rem)"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:318
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:293
+msgid "Color Cell Text"
+msgstr "Color Celda Texto"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:246
+msgid "Cols Number"
+msgstr "Cols Número"
+
+#: includes/PcPuzzleCrossword_Plugin.php:98
+msgid "Columns Number need to be greater than Zero"
+msgstr "El número de columnas debe ser mayor que cero"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:321
+msgid "Company / Organisation"
+msgstr "Empresa / Organización"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:386
+msgid "Confirm Clear Puzzle Text - Confirm Text"
+msgstr "Confirmar Borrar Texto Puzzle - Confirmar Texto"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:396
+msgid "Confirm Reset Setting to Default - Confirm Text"
+msgstr "Confirmar Restablecer valores por defecto - Confirmar texto"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:57
+msgid "Copied"
+msgstr "Copiado"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:56
+msgid "Copy"
+msgstr "Copia"
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:894
+#: includes/PcPuzzleCrossword_LifeCycle.php:915
+msgid "Could not save the crossword puzzle"
+msgstr "No se pudo guardar el crucigrama"
+
+#. Author of the plugin
+msgid "dan"
+msgstr "dan"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:279
+msgid "Date"
+msgstr "Fecha"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:146
+msgid "Default Blank Cell Colour"
+msgstr "Color por defecto de las celdas en blanco"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:180
+msgid "Default Focused Cell Colour"
+msgstr "Color por defecto de la celda enfocada"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:163
+msgid "Default Highlighted Cell Colour"
+msgstr "Color predeterminado de la celda resaltada"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:38
+msgid "Default settings for the user Menu"
+msgstr "Ajustes por defecto para el usuario Menú"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:22
+msgid "Default Sizes - Device / Fonts / Cells"
+msgstr "Tamaños por defecto - Dispositivo / Fuentes / Celdas"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:55
+msgid "Desktop"
+msgstr "Escritorio"
+
+#: templates/PcPuzzleCrosswordTemplate_Info.php:36
+msgid "Direction can also be changed by clicking on Space / Enter key"
+msgstr ""
+"También se puede cambiar la dirección pulsando la tecla Espacio / Intro"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Info.php:56
+msgid ""
+"Do not add \"script\" tags. Content will be sanitized as per post html "
+"allowed tags."
+msgstr ""
+"No añada etiquetas \"script\". El contenido será desinfectado según las "
+"etiquetas permitidas en el post html."
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:124
+msgid "Domain License"
+msgstr "Licencia de dominio"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:571
+msgid "Down Clue"
+msgstr "Pista Abajo"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:289
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:124
+msgid "Down Clues"
+msgstr "Abajo Pistas"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:189
+msgid "Download Empty Puzzle as PDF"
+msgstr "Descargar Empty Puzzle en PDF"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:201
+msgid "Download Solved Puzzle as PDF"
+msgstr "Descargar el puzzle resuelto en PDF"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:354
+msgid "Draw Blanks"
+msgstr "Dibujar espacios en blanco"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:199
+msgid "Email - Report Bug (If empty, will not show in menu option)"
+msgstr ""
+"Correo electrónico - Informar de error (si está vacío, no aparecerá en la "
+"opción de menú)"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:77
+msgid "Enter the license number"
+msgstr "Introduzca el número de licencia"
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:769
+msgid "Error"
+msgstr "Error"
+
+#: includes/PcPuzzleCrossword_Plugin.php:91
+msgid "Error Parsing Data"
+msgstr "Error al analizar los datos"
+
+#: advanced-crossword.php:41
+msgid ""
+"Error: Plugin \"Puzzle Crossword\" requires a higher version of PHP to be "
+"running."
+msgstr ""
+"Error: El plugin \"Puzzle Crossword\" requiere una versión superior de PHP "
+"para ejecutarse."
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:311
+msgid "Focused Cell Border"
+msgstr "Borde celular focalizado"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:283
+msgid "Focused Cell Colour Border"
+msgstr "Borde de color de la celda enfocada"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:253
+msgid "Font Size Cell Clue Number Text"
+msgstr "Tamaño de letra Número de pista de la celda Texto"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:243
+msgid "Font Size Cell Text"
+msgstr "Tamaño de fuente Texto de celda"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:27
+msgid "General"
+msgstr "General"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:55
+msgid "General Labels"
+msgstr "Etiquetas generales"
+
+#: includes/PcPuzzleCrossword_Includes.php:33
+msgid "Get Premium License"
+msgstr "Obtener licencia Premium"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:309
+msgid "Highlighted Cells"
+msgstr "Celdas resaltadas"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:273
+msgid "Highlighted Cells Colour"
+msgstr "Color de las celdas resaltadas"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:340
+msgid "How to play the puzzle and customize it"
+msgstr "Cómo jugar al puzzle y personalizarlo"
+
+#: templates/PcPuzzleCrosswordTemplate_Info.php:24
+msgid "How to play the puzzle!"
+msgstr "Cómo jugar al puzzle"
+
+#: includes/PcPuzzleCrossword_Plugin.php:92
+#: includes/w/W_PcPuzzleCrosswords_View.php:33
+msgid "Id"
+msgstr "Id"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:314
+msgid "If left empty no input restriction is applied."
+msgstr "Si se deja vacío no se aplica ninguna restricción de entrada."
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:30
+msgid "IMPORTANT"
+msgstr "IMPORTANTE"
+
+#: includes/PcPuzzleCrossword_Plugin.php:95
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:72
+msgid "Info"
+msgstr "Información"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:365
+msgid "Input Answer Cell"
+msgstr "Entrada Respuesta Celda"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:510
+msgid "Inside Print Page - Company Logo - .jpeg/.png (can be left blank)"
+msgstr ""
+"Interior de la página impresa - Logotipo de la empresa - .jpeg/.png (puede "
+"dejarse en blanco)"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:500
+msgid "Inside Print Page - Company Name (can be left blank)"
+msgstr ""
+"Página interior impresa - Nombre de la empresa (puede dejarse en blanco)"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:329
+msgid "Invalid Character, no symbols or numbers allowed"
+msgstr "Carácter no válido, no se permiten símbolos ni números"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:202
+msgid "Invalid Email"
+msgstr "Correo electrónico no válido"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:376
+msgid "Invalid Input Character"
+msgstr "Carácter de entrada no válido"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:64
+msgid "Labels"
+msgstr "Etiquetas"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:48
+msgid "Laptop"
+msgstr "Portátil"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:145
+msgid "Latest Version Available"
+msgstr "Última versión disponible"
+
+#: includes/PcPuzzleCrossword_Plugin.php:24
+#: includes/w/W_PcPuzzleCrosswords_License.php:59
+msgid "License"
+msgstr "Licencia"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:114
+msgid "License Active"
+msgstr "Licencia Activa"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:164
+msgid "License Date last checked"
+msgstr "Licencia Fecha del último control"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:178
+msgid ""
+"License is valid. Thank you for using our product. We much appreciate it."
+msgstr ""
+"La licencia es válida. Gracias por utilizar nuestro producto. Se lo "
+"agradecemos mucho."
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:104
+msgid "License Version"
+msgstr "Versión de licencia"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:87
+msgid "Licensing Server Url"
+msgstr "Url del servidor de licencias"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:297
+msgid "Menu"
+msgstr "Menú"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:64
+msgid "Menu Label"
+msgstr "Menú Etiqueta"
+
+#: advanced-crossword.php:42
+msgid "Minimal version of PHP required: "
+msgstr "Se requiere una versión mínima de PHP:"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:34
+msgid "Mobile"
+msgstr "Móvil"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:34
+#: includes/w/W_PcPuzzleCrosswords_View.php:233
+msgid "Name"
+msgstr "Nombre"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:412
+msgid "Navigate with the Arrow (up, down, left, right)"
+msgstr "Navega con las flechas (arriba, abajo, izquierda, derecha)"
+
+#: includes/PcPuzzleCrossword_Plugin.php:100
+#: includes/w/W_PcPuzzleCrosswords_View.php:24
+msgid "New Crossword"
+msgstr "Nuevo crucigrama"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:326
+#: includes/w/W_PcPuzzleCrosswords_License.php:21
+#: includes/w/W_PcPuzzleCrosswords_View.php:121
+msgid "No"
+msgstr "No"
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:207
+msgid "No message set."
+msgstr "No se ha establecido ningún mensaje."
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:327
+msgid "Ok, Got it!"
+msgstr "Ok, ¡Lo tengo!"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:308
+msgid "Only to characters A to Z and a to z"
+msgstr "Sólo a los caracteres de la A a la Z y de la a a la z"
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:724
+msgid "Page not verified"
+msgstr "Página no verificada"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:307
+msgid "PDF - Empty Puzzle"
+msgstr "PDF - Puzzle vacío"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:308
+msgid "PDF - Solved Puzzle"
+msgstr "PDF - Puzzle resuelto"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:324
+msgid ""
+"Placeholder example will restrict the input only to characters from A to Z "
+"and a to z (lowercase and uppercase)"
+msgstr ""
+"El ejemplo del marcador de posición restringirá la entrada sólo a los "
+"caracteres de la A a la Z y de la a a la z (minúsculas y mayúsculas)"
+
+#: includes/PcPuzzleCrossword_Includes.php:28
+msgid "Premium Feature"
+msgstr "Característica Premium"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:43
+msgid "Print"
+msgstr "Imprimir"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:310
+msgid "Print - Current State"
+msgstr "Imprimir - Estado actual"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:306
+msgid "Print - Empty Puzzle"
+msgstr "Imprimir - Empty Puzzle"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:320
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:490
+msgid "Print - Include Clues"
+msgstr "Imprimir - Incluir pistas"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:480
+msgid "Print Current State of the Puzzle"
+msgstr "Imprimir Estado actual del rompecabezas"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:470
+msgid "Print Empty Puzzle"
+msgstr "Imprimir Puzzle vacío"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:460
+msgid "Print labels"
+msgstr "Imprimir etiquetas"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:293
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:104
+msgid "Puzzle"
+msgstr "Puzzle"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Info.php:22
+msgid "Puzzle Information"
+msgstr "Puzzle Información"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:50
+msgid "Puzzle Menu"
+msgstr "Menú Puzzle"
+
+#: includes/PcPuzzleCrossword_Plugin.php:96
+msgid "Puzzle Name Required"
+msgstr "Nombre del puzzle obligatorio"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:228
+msgid "Puzzle Name:"
+msgstr "Nombre del puzzle:"
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:759
+msgid "Puzzle not found"
+msgstr "Puzzle no encontrado"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:328
+msgid "Puzzle Saved Successfully"
+msgstr "Puzzle guardado con éxito"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:179
+msgid "Remember My Settings"
+msgstr "Recordar mi configuración"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:317
+msgid "Remember Settings"
+msgstr "Recordar ajustes"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:316
+msgid "Report Bug"
+msgstr "Informar de un error"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:312
+msgid "Reset to Default"
+msgstr "Restablecer valores por defecto"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:301
+msgid "Restrict Input"
+msgstr "Restringir la entrada"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:335
+msgid "Reveal"
+msgstr "Revelar"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:406
+msgid "Reveal Cell - Confirm Text"
+msgstr "Revelar celda - Confirmar texto"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:416
+msgid "Reveal Clue - Confirm Text"
+msgstr "Revelar pista - Confirmar texto"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:446
+msgid ""
+"Reveal Date Time - Denied Message (show Date and Time by adding {date_time} )"
+msgstr ""
+"Mostrar Fecha Hora - Mensaje Denegado (mostrar Fecha y Hora añadiendo "
+"{date_time} )"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:426
+msgid "Reveal Puzzle - Confirm Text"
+msgstr "Revelar puzzle - Confirmar texto"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:332
+msgid "Reveal Selected Cell?"
+msgstr "¿Revelar célula seleccionada?"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:333
+msgid "Reveal Selected Clue?"
+msgstr "Revelar pista seleccionada?"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:334
+msgid "Reveal Solved Puzzle?"
+msgstr "¿Revelar puzzle resuelto?"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:436
+msgid "Reveal Text Info"
+msgstr "Revelar información del texto"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:238
+msgid "Rows Number"
+msgstr "Número de filas"
+
+#: includes/PcPuzzleCrossword_Plugin.php:97
+msgid "Rows Number need to be greater than Zero"
+msgstr "El número de filas debe ser mayor que cero"
+
+#: includes/PcPuzzleCrossword_Plugin.php:94
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:35
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:99
+#: includes/w/W_PcPuzzleCrosswords_View.php:149
+#: includes/w/W_PcPuzzleCrosswords_View.php:207
+#: includes/w/W_PcPuzzleCrosswords_View.php:656
+msgid "Save"
+msgstr "Guardar"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:202
+#: includes/w/W_PcPuzzleCrosswords_View.php:651
+msgid "Save & Back"
+msgstr "Guardar y volver"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:424
+msgid "Save and Generate Clues"
+msgstr "Guardar y generar pistas"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:314
+msgid "Save Progress"
+msgstr "Salvar el progreso"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:366
+msgid "Save Puzzle Text - Fading Text"
+msgstr "Guardar texto de puzzle - Texto desvanecido"
+
+#: includes/PcPuzzleCrossword_Plugin.php:90
+msgid "Saved"
+msgstr "Guardado"
+
+#: includes/PcPuzzleCrossword_Plugin.php:93
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:38
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:102
+msgid "Saving ..."
+msgstr "Ahorrar ..."
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:70
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:117
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:200
+msgid "Screen Max Width"
+msgstr "Anchura máxima de la pantalla"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Info.php:42
+msgid "See documentation / video on how to do it"
+msgstr "Ver documentación / vídeo sobre cómo hacerlo"
+
+#: includes/PcPuzzleCrossword_Plugin.php:20
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:25
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:298
+msgid "Settings - Customize the puzzle"
+msgstr "Ajustes - Personalizar el puzzle"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:36
+msgid "Shortcode"
+msgstr "Código corto"
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:742
+msgid "Show"
+msgstr "Mostrar"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:39
+msgid "Show Answers From"
+msgstr "Mostrar respuestas de"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:92
+msgid "Show Cell Size Adjustment option"
+msgstr "Mostrar la opción de ajuste del tamaño de celda"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:102
+msgid "Show Font Size Adjustment Option"
+msgstr "Mostrar opción de ajuste del tamaño de fuente"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:112
+msgid "Show Font Size Clue No Adjustment Option"
+msgstr "Mostrar pista de tamaño de fuente Sin opción de ajuste"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Info.php:31
+msgid "Show Information about the Puzzle to the player"
+msgstr "Mostrar información sobre el puzzle al jugador"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Info.php:41
+msgid ""
+"Show Information from Template (custom html in case the editor does not work)"
+msgstr ""
+"Mostrar información de la plantilla (html personalizado en caso de que el "
+"editor no funcione)"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:25
+msgid "Show Menu to front end users"
+msgstr "Mostrar el menú a los usuarios frontales"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:67
+msgid "Show Print Current State of Puzzle"
+msgstr "Mostrar Imprimir Estado Actual del Puzzle"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:57
+msgid "Show Print Empty Puzzle"
+msgstr "Mostrar Imprimir Puzzle vacío"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:47
+msgid "Show Remember Settings"
+msgstr "Mostrar Recordar configuración"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:319
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:223
+msgid "Show Timer"
+msgstr "Mostrar temporizador"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:57
+msgid "Sizes"
+msgstr "Tallas"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:305
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:212
+msgid "Skip Filled Cells"
+msgstr "Omitir celdas rellenas"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:134
+msgid "Support & Updates End Date"
+msgstr "Fecha final de asistencia y actualizaciones"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:41
+msgid "Tablet"
+msgstr "Tableta"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:303
+msgid "Text Size"
+msgstr "Tamaño del texto"
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:811
+msgid "The page did not pass the verification test"
+msgstr "La página no ha superado la prueba de verificación"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:285
+msgid "Time"
+msgstr "Tiempo"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:374
+msgid "Toggle Cells No"
+msgstr "Celdas de conmutación No"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:319
+msgid "Use Javascript Regular expression to Restrict input:"
+msgstr ""
+"Utilice expresiones regulares de Javascript para restringir la entrada:"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:33
+msgid "User Menu"
+msgstr "Menú de usuario"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:140
+msgid "User Menu Labels"
+msgstr "Etiquetas de menú de usuario"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:189
+msgid "Validate License"
+msgstr "Validar licencia"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:14
+msgid "Version"
+msgstr "Versión"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:153
+msgid "View"
+msgstr "Ver"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:259
+msgid "View Answers From:"
+msgstr "Ver respuestas de:"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:325
+#: includes/w/W_PcPuzzleCrosswords_License.php:29
+#: includes/w/W_PcPuzzleCrosswords_View.php:120
+msgid "Yes"
+msgstr "Sí"
+
+#: advanced-crossword.php:43
+msgid "Your server's PHP version: "
+msgstr "La versión PHP de su servidor:"

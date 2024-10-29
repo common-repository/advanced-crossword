@@ -1,0 +1,903 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Crossword\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-21 22:23+0000\n"
+"PO-Revision-Date: 2024-01-21 22:44+0000\n"
+"Last-Translator: \n"
+"Language-Team: Chinese (China)\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: advanced-crossword"
+
+#. URI of the plugin
+msgid "#"
+msgstr "#"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:88
+msgid "(leave empty, or otherwise stated by developer)"
+msgstr "(留空，或由开发人员另行说明）"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:413
+msgid "- To Save simply toggle back"
+msgstr "- 要保存，只需切换回"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:221
+msgid "2.Generate Numbers"
+msgstr "2.生成数字"
+
+#: templates/PcPuzzleCrosswordTemplate_Info.php:40
+msgid ""
+"Across and Down Clues can be toggle visible by clicking on the down / up "
+"arrows"
+msgstr "点击向下/向上箭头可切换横向和纵向线索的可见性"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:489
+msgid "Across Clue"
+msgstr "穿越线索"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:288
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:114
+msgid "Across Clues"
+msgstr "跨越线索"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:32
+msgid "Action"
+msgstr "行动"
+
+#. Name of the plugin
+msgid "Advanced Crossword"
+msgstr "高级填字游戏"
+
+#. Description of the plugin
+msgid ""
+"Advanced Crossword lets you have full control over the crossword created. "
+"From custom grid size to cell size, font size, colors and many more."
+msgstr "高级填字游戏可让您完全控制所创建的填字游戏。从自定义网格大小到单元格大小、字体大小、颜色等等。"
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:525
+msgid ""
+"Advanced Crossword License is not valid. Check the license or contact "
+"developer@tuskcode.com"
+msgstr "高级填字游戏许可证无效。检查许可证或联系 developer@tuskcode.com"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:327
+msgid "Alert message and labels"
+msgstr "警报信息和标签"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:38
+msgid "Alert Messages"
+msgstr "警报信息"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:263
+msgid ""
+"Allow the player to view the solved puzzle after \n"
+"                                                    specific date and time. "
+"(Ideal when running competitions)"
+msgstr ""
+"允许玩家在特定日期和时间之后查看已解谜题。\n"
+"                                                    "
+"特定日期和时间后查看已解谜题。(举办竞赛时的理想选择）"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:524
+#: includes/w/W_PcPuzzleCrosswords_View.php:607
+msgid "Answer"
+msgstr "回答"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:336
+msgid "Answers are available to view from "
+msgstr "可从以下网址查看答案"
+
+#: includes/PcPuzzleCrossword_Plugin.php:89
+msgid "Are you sure you want to clear all answer cells?"
+msgstr "您确定要清除所有答案单元格吗？"
+
+#: includes/PcPuzzleCrossword_Plugin.php:88
+msgid "Are you sure you want to clear all blank cells?"
+msgstr "您确定要清除所有空白单元格吗？"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:330
+msgid "Are you sure you want to clear the puzzle?"
+msgstr "你确定要清除谜题吗？"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:116
+msgid "Are you sure you want to delete it?"
+msgstr "你确定要删除它吗？"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:331
+msgid "Are you sure you want to Reset to Default the Settings?"
+msgstr "您确定要重置为默认设置吗？"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:212
+#: includes/w/W_PcPuzzleCrosswords_View.php:661
+msgid "Back"
+msgstr "返回"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:301
+msgid "Blank Cell"
+msgstr "空白单元格"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:263
+msgid "Blank Cell Colour"
+msgstr "空白单元格颜色"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:384
+msgid "Border Collapse"
+msgstr "边境崩溃"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:159
+msgid "Button - Clear"
+msgstr "按钮 - 清除"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:313
+msgid "Button - Close"
+msgstr "按钮 - 关闭"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:346
+msgid "Button - No"
+msgstr "按钮 - 无"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:356
+msgid "Button - Ok"
+msgstr "按钮 - 好"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:169
+msgid "Button - Report Bug"
+msgstr "按钮 - 报告错误"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:303
+msgid "Button - Reset to Default"
+msgstr "按钮 - 重置为默认值"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:149
+msgid "Button - Save"
+msgstr "按钮 - 保存"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:336
+msgid "Button - Yes"
+msgstr "按钮 - 是"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:148
+#: includes/w/W_PcPuzzleCrosswords_View.php:431
+msgid "Cancel"
+msgstr "取消"
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:749
+msgid "Cannot show"
+msgstr "无法显示"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:292
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:94
+msgid "Cell"
+msgstr "细胞"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:302
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:233
+msgid "Cell Size"
+msgstr "细胞大小"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:129
+msgid "Cell Text Colour"
+msgstr "单元格文本颜色"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:91
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:138
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:175
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:221
+msgid "Cell Text Font Size (rem)"
+msgstr "单元格文本字体大小 (rem)"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:80
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:127
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:164
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:210
+msgid "Cell Width (px)"
+msgstr "单元格宽度（px）"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:82
+msgid "Checked / Unchecked Skip Filled Cells"
+msgstr "选中/未选中 跳过已填充单元格"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:402
+msgid "Clear All Answers"
+msgstr "清除所有答案"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:393
+msgid "Clear All Blanks"
+msgstr "清除所有空白"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:534
+#: includes/w/W_PcPuzzleCrosswords_View.php:617
+msgid "Clear Answer"
+msgstr "明确答案"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:507
+#: includes/w/W_PcPuzzleCrosswords_View.php:590
+msgid "Clear Clue"
+msgstr "明确线索"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:547
+#: includes/w/W_PcPuzzleCrosswords_View.php:630
+msgid "Clear clue and answer"
+msgstr "明确的线索和答案"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:290
+msgid "Clear Date"
+msgstr "清除日期"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:315
+msgid "Clear Puzzle"
+msgstr "清晰拼图"
+
+#: templates/PcPuzzleCrosswordTemplate_Info.php:28
+msgid "Click on any cell to get started"
+msgstr "点击任何单元格开始"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:420
+msgid "Click on the table cells to mark the blank cells"
+msgstr "单击表格单元格，标记空白单元格"
+
+#: templates/PcPuzzleCrosswordTemplate_Info.php:32
+msgid "Click on vertical / horizontal lines to change direction"
+msgstr "点击垂直线/水平线可改变方向"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:313
+msgid "Close Menu"
+msgstr "关闭菜单"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:291
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:84
+#: includes/w/W_PcPuzzleCrosswords_View.php:497
+#: includes/w/W_PcPuzzleCrosswords_View.php:503
+#: includes/w/W_PcPuzzleCrosswords_View.php:580
+#: includes/w/W_PcPuzzleCrosswords_View.php:586
+msgid "Clue"
+msgstr "提示"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:74
+msgid "Clue Display (Above / Below Puzzle)"
+msgstr "线索显示（拼图上方/下方）"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:290
+msgid "Clue Display - Press on any cell to start"
+msgstr "线索显示 - 按任意单元格开始"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:304
+msgid "Clue No Size"
+msgstr "线索编号 尺寸"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:102
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:149
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:186
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:232
+msgid "Clue Number Font Size (rem)"
+msgstr "线索编号 字体大小 (rem)"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:318
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:293
+msgid "Color Cell Text"
+msgstr "彩色单元格文本"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:246
+msgid "Cols Number"
+msgstr "列数"
+
+#: includes/PcPuzzleCrossword_Plugin.php:98
+msgid "Columns Number need to be greater than Zero"
+msgstr "列数必须大于零"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:321
+msgid "Company / Organisation"
+msgstr "公司/组织"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:386
+msgid "Confirm Clear Puzzle Text - Confirm Text"
+msgstr "确认 清除谜题文本 - 确认文本"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:396
+msgid "Confirm Reset Setting to Default - Confirm Text"
+msgstr "确认将设置重置为默认 - 确认文本"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:57
+msgid "Copied"
+msgstr "复制的"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:56
+msgid "Copy"
+msgstr "复制"
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:894
+#: includes/PcPuzzleCrossword_LifeCycle.php:915
+msgid "Could not save the crossword puzzle"
+msgstr "无法保存填字游戏"
+
+#. Author of the plugin
+msgid "dan"
+msgstr "丹"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:279
+msgid "Date"
+msgstr "日期"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:146
+msgid "Default Blank Cell Colour"
+msgstr "默认空白单元格颜色"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:180
+msgid "Default Focused Cell Colour"
+msgstr "默认聚焦单元格颜色"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:163
+msgid "Default Highlighted Cell Colour"
+msgstr "默认高亮单元格颜色"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:38
+msgid "Default settings for the user Menu"
+msgstr "用户菜单的默认设置"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:22
+msgid "Default Sizes - Device / Fonts / Cells"
+msgstr "默认尺寸 - 设备 / 字体 / 单元格"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:55
+msgid "Desktop"
+msgstr "台式机"
+
+#: templates/PcPuzzleCrosswordTemplate_Info.php:36
+msgid "Direction can also be changed by clicking on Space / Enter key"
+msgstr "也可通过点击空格键/回车键更改方向"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Info.php:56
+msgid ""
+"Do not add \"script\" tags. Content will be sanitized as per post html "
+"allowed tags."
+msgstr "请勿添加 \"脚本 \"标记。内容将按照帖子 html 允许的标记进行消毒。"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:124
+msgid "Domain License"
+msgstr "域名许可"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:571
+msgid "Down Clue"
+msgstr "下降线索"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:289
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:124
+msgid "Down Clues"
+msgstr "下降线索"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:189
+msgid "Download Empty Puzzle as PDF"
+msgstr "将《空之谜》下载为 PDF 格式"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:201
+msgid "Download Solved Puzzle as PDF"
+msgstr "下载 PDF 格式的已解谜题"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:354
+msgid "Draw Blanks"
+msgstr "抽取空白"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:199
+msgid "Email - Report Bug (If empty, will not show in menu option)"
+msgstr "电子邮件 - 报告错误（如果为空，则不会显示在菜单选项中）"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:77
+msgid "Enter the license number"
+msgstr "输入许可证编号"
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:769
+msgid "Error"
+msgstr "错误"
+
+#: includes/PcPuzzleCrossword_Plugin.php:91
+msgid "Error Parsing Data"
+msgstr "解析数据出错"
+
+#: advanced-crossword.php:41
+msgid ""
+"Error: Plugin \"Puzzle Crossword\" requires a higher version of PHP to be "
+"running."
+msgstr "错误：Plugin \"Puzzle Crossword\" 需要运行更高的 PHP 版本。"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:311
+msgid "Focused Cell Border"
+msgstr "聚焦细胞边界"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:283
+msgid "Focused Cell Colour Border"
+msgstr "聚焦单元格颜色边框"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:253
+msgid "Font Size Cell Clue Number Text"
+msgstr "字体大小 单元格 线索编号 文本"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:243
+msgid "Font Size Cell Text"
+msgstr "单元格文本字体大小"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:27
+msgid "General"
+msgstr "一般情况"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:55
+msgid "General Labels"
+msgstr "一般标签"
+
+#: includes/PcPuzzleCrossword_Includes.php:33
+msgid "Get Premium License"
+msgstr "获取高级许可证"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:309
+msgid "Highlighted Cells"
+msgstr "突出显示的单元格"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:273
+msgid "Highlighted Cells Colour"
+msgstr "突出显示的单元格颜色"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:340
+msgid "How to play the puzzle and customize it"
+msgstr "如何玩拼图和自定义拼图"
+
+#: templates/PcPuzzleCrosswordTemplate_Info.php:24
+msgid "How to play the puzzle!"
+msgstr "如何玩拼图游戏"
+
+#: includes/PcPuzzleCrossword_Plugin.php:92
+#: includes/w/W_PcPuzzleCrosswords_View.php:33
+msgid "Id"
+msgstr "同上"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:314
+msgid "If left empty no input restriction is applied."
+msgstr "如果留空，则不应用输入限制。"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:30
+msgid "IMPORTANT"
+msgstr "重要事项"
+
+#: includes/PcPuzzleCrossword_Plugin.php:95
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:72
+msgid "Info"
+msgstr "信息"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:365
+msgid "Input Answer Cell"
+msgstr "输入答案单元"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:510
+msgid "Inside Print Page - Company Logo - .jpeg/.png (can be left blank)"
+msgstr "印刷内页 - 公司徽标 - .jpeg/.png（可留空）"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:500
+msgid "Inside Print Page - Company Name (can be left blank)"
+msgstr "印刷内页 - 公司名称（可留空）"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:329
+msgid "Invalid Character, no symbols or numbers allowed"
+msgstr "无效字符，不允许使用符号或数字"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:202
+msgid "Invalid Email"
+msgstr "无效电子邮件"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:376
+msgid "Invalid Input Character"
+msgstr "无效输入字符"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:64
+msgid "Labels"
+msgstr "标签"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:48
+msgid "Laptop"
+msgstr "笔记本电脑"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:145
+msgid "Latest Version Available"
+msgstr "最新版本"
+
+#: includes/PcPuzzleCrossword_Plugin.php:24
+#: includes/w/W_PcPuzzleCrosswords_License.php:59
+msgid "License"
+msgstr "许可证"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:114
+msgid "License Active"
+msgstr "许可证有效"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:164
+msgid "License Date last checked"
+msgstr "许可证 最后检查日期"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:178
+msgid ""
+"License is valid. Thank you for using our product. We much appreciate it."
+msgstr "许可证有效。感谢您使用我们的产品。我们将不胜感激。"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:104
+msgid "License Version"
+msgstr "许可证版本"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:87
+msgid "Licensing Server Url"
+msgstr "许可证服务器网址"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:297
+msgid "Menu"
+msgstr "菜单"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:64
+msgid "Menu Label"
+msgstr "菜单标签"
+
+#: advanced-crossword.php:42
+msgid "Minimal version of PHP required: "
+msgstr "所需的 PHP 最低版本："
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:34
+msgid "Mobile"
+msgstr "移动电话"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:34
+#: includes/w/W_PcPuzzleCrosswords_View.php:233
+msgid "Name"
+msgstr "名称"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:412
+msgid "Navigate with the Arrow (up, down, left, right)"
+msgstr "使用箭头导航（上、下、左、右）"
+
+#: includes/PcPuzzleCrossword_Plugin.php:100
+#: includes/w/W_PcPuzzleCrosswords_View.php:24
+msgid "New Crossword"
+msgstr "新填字游戏"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:326
+#: includes/w/W_PcPuzzleCrosswords_License.php:21
+#: includes/w/W_PcPuzzleCrosswords_View.php:121
+msgid "No"
+msgstr "没有"
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:207
+msgid "No message set."
+msgstr "未设置信息。"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:327
+msgid "Ok, Got it!"
+msgstr "好的，明白了！"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:308
+msgid "Only to characters A to Z and a to z"
+msgstr "仅适用于 A 至 Z 和 a 至 z 字符"
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:724
+msgid "Page not verified"
+msgstr "页面未核实"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:307
+msgid "PDF - Empty Puzzle"
+msgstr "PDF - 空拼图"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:308
+msgid "PDF - Solved Puzzle"
+msgstr "PDF - 已解谜题"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:324
+msgid ""
+"Placeholder example will restrict the input only to characters from A to Z "
+"and a to z (lowercase and uppercase)"
+msgstr "占位符示例将限制输入的字符只能是 A 到 Z 和 a 到 z（小写和大写）。"
+
+#: includes/PcPuzzleCrossword_Includes.php:28
+msgid "Premium Feature"
+msgstr "高级功能"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:43
+msgid "Print"
+msgstr "打印"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:310
+msgid "Print - Current State"
+msgstr "打印 - 当前状态"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:306
+msgid "Print - Empty Puzzle"
+msgstr "打印 - 空拼图"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:320
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:490
+msgid "Print - Include Clues"
+msgstr "打印 - 包含线索"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:480
+msgid "Print Current State of the Puzzle"
+msgstr "打印谜题现状"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:470
+msgid "Print Empty Puzzle"
+msgstr "打印空拼图"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:460
+msgid "Print labels"
+msgstr "打印标签"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:293
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:104
+msgid "Puzzle"
+msgstr "拼图"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Info.php:22
+msgid "Puzzle Information"
+msgstr "拼图信息"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:50
+msgid "Puzzle Menu"
+msgstr "拼图菜单"
+
+#: includes/PcPuzzleCrossword_Plugin.php:96
+msgid "Puzzle Name Required"
+msgstr "需要拼图名称"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:228
+msgid "Puzzle Name:"
+msgstr "谜题名称"
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:759
+msgid "Puzzle not found"
+msgstr "未找到拼图"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:328
+msgid "Puzzle Saved Successfully"
+msgstr "成功保存拼图"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:179
+msgid "Remember My Settings"
+msgstr "记住我的设置"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:317
+msgid "Remember Settings"
+msgstr "记住设置"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:316
+msgid "Report Bug"
+msgstr "报告错误"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:312
+msgid "Reset to Default"
+msgstr "重置为默认值"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:301
+msgid "Restrict Input"
+msgstr "限制输入"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:335
+msgid "Reveal"
+msgstr "揭示"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:406
+msgid "Reveal Cell - Confirm Text"
+msgstr "显示单元格 - 确认文本"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:416
+msgid "Reveal Clue - Confirm Text"
+msgstr "揭示线索 - 确认文本"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:446
+msgid ""
+"Reveal Date Time - Denied Message (show Date and Time by adding {date_time} )"
+msgstr "显示日期 时间 - 拒绝信息（通过添加 {date_time} 显示日期和时间 )"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:426
+msgid "Reveal Puzzle - Confirm Text"
+msgstr "揭示谜题 - 确认文本"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:332
+msgid "Reveal Selected Cell?"
+msgstr "揭示选定的细胞？"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:333
+msgid "Reveal Selected Clue?"
+msgstr "揭示选定的线索？"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:334
+msgid "Reveal Solved Puzzle?"
+msgstr "揭开谜底？"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:436
+msgid "Reveal Text Info"
+msgstr "揭示文本信息"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:238
+msgid "Rows Number"
+msgstr "行数"
+
+#: includes/PcPuzzleCrossword_Plugin.php:97
+msgid "Rows Number need to be greater than Zero"
+msgstr "行数必须大于零"
+
+#: includes/PcPuzzleCrossword_Plugin.php:94
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:35
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:99
+#: includes/w/W_PcPuzzleCrosswords_View.php:149
+#: includes/w/W_PcPuzzleCrosswords_View.php:207
+#: includes/w/W_PcPuzzleCrosswords_View.php:656
+msgid "Save"
+msgstr "节省"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:202
+#: includes/w/W_PcPuzzleCrosswords_View.php:651
+msgid "Save & Back"
+msgstr "保存和返回"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:424
+msgid "Save and Generate Clues"
+msgstr "保存和生成线索"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:314
+msgid "Save Progress"
+msgstr "保存进度"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:366
+msgid "Save Puzzle Text - Fading Text"
+msgstr "保存拼图文本 - 渐变文本"
+
+#: includes/PcPuzzleCrossword_Plugin.php:90
+msgid "Saved"
+msgstr "已保存"
+
+#: includes/PcPuzzleCrossword_Plugin.php:93
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:38
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:102
+msgid "Saving ..."
+msgstr "节省..."
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:70
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:117
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:200
+msgid "Screen Max Width"
+msgstr "屏幕最大宽度"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Info.php:42
+msgid "See documentation / video on how to do it"
+msgstr "请参阅文档/视频，了解如何操作"
+
+#: includes/PcPuzzleCrossword_Plugin.php:20
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:25
+msgid "Settings"
+msgstr "设置"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:298
+msgid "Settings - Customize the puzzle"
+msgstr "设置 - 自定义谜题"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:36
+msgid "Shortcode"
+msgstr "简码"
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:742
+msgid "Show"
+msgstr "显示"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:39
+msgid "Show Answers From"
+msgstr "显示来自的答案"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:92
+msgid "Show Cell Size Adjustment option"
+msgstr "显示单元格大小调整选项"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:102
+msgid "Show Font Size Adjustment Option"
+msgstr "显示字体大小调整选项"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:112
+msgid "Show Font Size Clue No Adjustment Option"
+msgstr "显示字体大小提示 无调整选项"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Info.php:31
+msgid "Show Information about the Puzzle to the player"
+msgstr "向玩家显示谜题信息"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Info.php:41
+msgid ""
+"Show Information from Template (custom html in case the editor does not work)"
+msgstr "从模板显示信息（自定义 HTML，以防编辑器无法工作）"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:25
+msgid "Show Menu to front end users"
+msgstr "向前端用户显示菜单"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:67
+msgid "Show Print Current State of Puzzle"
+msgstr "显示打印当前拼图状态"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:57
+msgid "Show Print Empty Puzzle"
+msgstr "显示打印空拼图"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:47
+msgid "Show Remember Settings"
+msgstr "显示记忆设置"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:319
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:223
+msgid "Show Timer"
+msgstr "显示计时器"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:57
+msgid "Sizes"
+msgstr "尺寸"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:305
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:212
+msgid "Skip Filled Cells"
+msgstr "跳过填充单元格"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:134
+msgid "Support & Updates End Date"
+msgstr "支持和更新结束日期"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:41
+msgid "Tablet"
+msgstr "平板电脑"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:303
+msgid "Text Size"
+msgstr "文字大小"
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:811
+msgid "The page did not pass the verification test"
+msgstr "页面未通过验证测试"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:285
+msgid "Time"
+msgstr "时间"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:374
+msgid "Toggle Cells No"
+msgstr "切换单元格 否"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:319
+msgid "Use Javascript Regular expression to Restrict input:"
+msgstr "使用 Javascript 正则表达式限制输入："
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:33
+msgid "User Menu"
+msgstr "用户菜单"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:140
+msgid "User Menu Labels"
+msgstr "用户菜单标签"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:189
+msgid "Validate License"
+msgstr "验证许可证"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:14
+msgid "Version"
+msgstr "版本"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:153
+msgid "View"
+msgstr "查看"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:259
+msgid "View Answers From:"
+msgstr "查看答案"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:325
+#: includes/w/W_PcPuzzleCrosswords_License.php:29
+#: includes/w/W_PcPuzzleCrosswords_View.php:120
+msgid "Yes"
+msgstr "是"
+
+#: advanced-crossword.php:43
+msgid "Your server's PHP version: "
+msgstr "服务器的 PHP 版本："

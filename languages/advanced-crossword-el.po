@@ -1,0 +1,928 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Crossword\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-21 22:23+0000\n"
+"PO-Revision-Date: 2024-01-21 22:37+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: advanced-crossword"
+
+#. URI of the plugin
+msgid "#"
+msgstr "#"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:88
+msgid "(leave empty, or otherwise stated by developer)"
+msgstr "(αφήστε το κενό ή δηλώστε το διαφορετικά από τον προγραμματιστή)"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:413
+msgid "- To Save simply toggle back"
+msgstr "- Για να αποθηκεύσετε απλά γυρίστε πίσω"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:221
+msgid "2.Generate Numbers"
+msgstr "2.Δημιουργία αριθμών"
+
+#: templates/PcPuzzleCrosswordTemplate_Info.php:40
+msgid ""
+"Across and Down Clues can be toggle visible by clicking on the down / up "
+"arrows"
+msgstr ""
+"Οι ενδείξεις προς τα πάνω και προς τα κάτω μπορούν να αλλάξουν την ορατότητα "
+"κάνοντας κλικ στα βέλη προς τα κάτω/πάνω"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:489
+msgid "Across Clue"
+msgstr "Απέναντι Clue"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:288
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:114
+msgid "Across Clues"
+msgstr "Απέναντι από τα στοιχεία"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:32
+msgid "Action"
+msgstr "Δράση"
+
+#. Name of the plugin
+msgid "Advanced Crossword"
+msgstr "Προηγμένο σταυρόλεξο"
+
+#. Description of the plugin
+msgid ""
+"Advanced Crossword lets you have full control over the crossword created. "
+"From custom grid size to cell size, font size, colors and many more."
+msgstr ""
+"Το Σύνθετο σταυρόλεξο σας επιτρέπει να έχετε πλήρη έλεγχο του σταυρόλεξου "
+"που δημιουργείται. Από το προσαρμοσμένο μέγεθος του πλέγματος μέχρι το "
+"μέγεθος των κελιών, το μέγεθος της γραμματοσειράς, τα χρώματα και πολλά άλλα."
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:525
+msgid ""
+"Advanced Crossword License is not valid. Check the license or contact "
+"developer@tuskcode.com"
+msgstr ""
+"Η Advanced Crossword License δεν είναι έγκυρη. Ελέγξτε την άδεια χρήσης ή "
+"επικοινωνήστε με το developer@tuskcode.com"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:327
+msgid "Alert message and labels"
+msgstr "Μήνυμα ειδοποίησης και ετικέτες"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:38
+msgid "Alert Messages"
+msgstr "Μηνύματα ειδοποίησης"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:263
+msgid ""
+"Allow the player to view the solved puzzle after \n"
+"                                                    specific date and time. "
+"(Ideal when running competitions)"
+msgstr ""
+"Επιτρέψτε στον παίκτη να δει το λυμένο παζλ μετά από\n"
+"                                                    συγκεκριμένη ημερομηνία "
+"και ώρα. (Ιδανικό για τη διεξαγωγή διαγωνισμών)"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:524
+#: includes/w/W_PcPuzzleCrosswords_View.php:607
+msgid "Answer"
+msgstr "Απάντηση"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:336
+msgid "Answers are available to view from "
+msgstr "Οι απαντήσεις είναι διαθέσιμες από"
+
+#: includes/PcPuzzleCrossword_Plugin.php:89
+msgid "Are you sure you want to clear all answer cells?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε όλα τα κελιά απαντήσεων"
+
+#: includes/PcPuzzleCrossword_Plugin.php:88
+msgid "Are you sure you want to clear all blank cells?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε όλα τα κενά κελιά"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:330
+msgid "Are you sure you want to clear the puzzle?"
+msgstr "Είστε σίγουροι ότι θέλετε να λύσετε το παζλ"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:116
+msgid "Are you sure you want to delete it?"
+msgstr "Είστε σίγουρος ότι θέλετε να το διαγράψετε"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:331
+msgid "Are you sure you want to Reset to Default the Settings?"
+msgstr ""
+"Είστε σίγουροι ότι θέλετε να επαναφέρετε τις ρυθμίσεις στις προεπιλεγμένες"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:212
+#: includes/w/W_PcPuzzleCrosswords_View.php:661
+msgid "Back"
+msgstr "Πίσω"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:301
+msgid "Blank Cell"
+msgstr "Κενό κελί"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:263
+msgid "Blank Cell Colour"
+msgstr "Χρώμα κενού κελιού"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:384
+msgid "Border Collapse"
+msgstr "Κατάρρευση των συνόρων"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:159
+msgid "Button - Clear"
+msgstr "Κουμπί - Εκκαθάριση"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:313
+msgid "Button - Close"
+msgstr "Κουμπί - Κλείσιμο"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:346
+msgid "Button - No"
+msgstr "Κουμπί - Όχι"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:356
+msgid "Button - Ok"
+msgstr "Κουμπί - Εντάξει"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:169
+msgid "Button - Report Bug"
+msgstr "Κουμπί - Αναφορά σφάλματος"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:303
+msgid "Button - Reset to Default"
+msgstr "Κουμπί - Επαναφορά στην προεπιλογή"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:149
+msgid "Button - Save"
+msgstr "Κουμπί - Αποθήκευση"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:336
+msgid "Button - Yes"
+msgstr "Κουμπί - Ναι"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:148
+#: includes/w/W_PcPuzzleCrosswords_View.php:431
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:749
+msgid "Cannot show"
+msgstr "Δεν μπορεί να εμφανιστεί"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:292
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:94
+msgid "Cell"
+msgstr "Κύτταρο"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:302
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:233
+msgid "Cell Size"
+msgstr "Μέγεθος κυττάρου"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:129
+msgid "Cell Text Colour"
+msgstr "Χρώμα κειμένου κελιού"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:91
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:138
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:175
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:221
+msgid "Cell Text Font Size (rem)"
+msgstr "Μέγεθος γραμματοσειράς κειμένου κελιού (rem)"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:80
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:127
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:164
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:210
+msgid "Cell Width (px)"
+msgstr "Πλάτος κελιού (px)"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:82
+msgid "Checked / Unchecked Skip Filled Cells"
+msgstr "Επιλεγμένο / Μη επιλεγμένο Παράλειψη γεμάτων κελιών"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:402
+msgid "Clear All Answers"
+msgstr "Καθαρίστε όλες τις απαντήσεις"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:393
+msgid "Clear All Blanks"
+msgstr "Καθαρίστε όλα τα κενά"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:534
+#: includes/w/W_PcPuzzleCrosswords_View.php:617
+msgid "Clear Answer"
+msgstr "Σαφής απάντηση"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:507
+#: includes/w/W_PcPuzzleCrosswords_View.php:590
+msgid "Clear Clue"
+msgstr "Σαφής ένδειξη"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:547
+#: includes/w/W_PcPuzzleCrosswords_View.php:630
+msgid "Clear clue and answer"
+msgstr "Σαφής ένδειξη και απάντηση"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:290
+msgid "Clear Date"
+msgstr "Ημερομηνία εκκαθάρισης"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:315
+msgid "Clear Puzzle"
+msgstr "Σαφές παζλ"
+
+#: templates/PcPuzzleCrosswordTemplate_Info.php:28
+msgid "Click on any cell to get started"
+msgstr "Κάντε κλικ σε οποιοδήποτε κελί για να ξεκινήσετε"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:420
+msgid "Click on the table cells to mark the blank cells"
+msgstr "Κάντε κλικ στα κελιά του πίνακα για να επισημάνετε τα κενά κελιά"
+
+#: templates/PcPuzzleCrosswordTemplate_Info.php:32
+msgid "Click on vertical / horizontal lines to change direction"
+msgstr "Κάντε κλικ στις κάθετες/οριζόντιες γραμμές για να αλλάξετε κατεύθυνση"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:313
+msgid "Close Menu"
+msgstr "Κλείσιμο μενού"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:291
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:84
+#: includes/w/W_PcPuzzleCrosswords_View.php:497
+#: includes/w/W_PcPuzzleCrosswords_View.php:503
+#: includes/w/W_PcPuzzleCrosswords_View.php:580
+#: includes/w/W_PcPuzzleCrosswords_View.php:586
+msgid "Clue"
+msgstr "Στοιχείο"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:74
+msgid "Clue Display (Above / Below Puzzle)"
+msgstr "Εμφάνιση στοιχείων (πάνω/κάτω από το παζλ)"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:290
+msgid "Clue Display - Press on any cell to start"
+msgstr "Οθόνη ενδείξεων - Πατήστε σε οποιοδήποτε κελί για να ξεκινήσετε"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:304
+msgid "Clue No Size"
+msgstr "Στοιχείο Όχι Μέγεθος"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:102
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:149
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:186
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:232
+msgid "Clue Number Font Size (rem)"
+msgstr "Στοιχείο Αριθμός γραμματοσειράς Μέγεθος γραμματοσειράς (rem)"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:318
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:293
+msgid "Color Cell Text"
+msgstr "Χρώμα Κείμενο κελιού"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:246
+msgid "Cols Number"
+msgstr "Αριθμός Cols"
+
+#: includes/PcPuzzleCrossword_Plugin.php:98
+msgid "Columns Number need to be greater than Zero"
+msgstr "Ο αριθμός των στηλών πρέπει να είναι μεγαλύτερος από το μηδέν"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:321
+msgid "Company / Organisation"
+msgstr "Εταιρεία / Οργανισμός"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:386
+msgid "Confirm Clear Puzzle Text - Confirm Text"
+msgstr "Επιβεβαίωση Εκκαθάριση κειμένου παζλ - Επιβεβαίωση κειμένου"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:396
+msgid "Confirm Reset Setting to Default - Confirm Text"
+msgstr ""
+"Επιβεβαίωση Επαναφορά της ρύθμισης στην προεπιλογή - Επιβεβαίωση κειμένου"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:57
+msgid "Copied"
+msgstr "Αντιγραφή"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:56
+msgid "Copy"
+msgstr "Αντιγραφή"
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:894
+#: includes/PcPuzzleCrossword_LifeCycle.php:915
+msgid "Could not save the crossword puzzle"
+msgstr "Δεν μπόρεσε να αποθηκεύσει το σταυρόλεξο"
+
+#. Author of the plugin
+msgid "dan"
+msgstr "dan"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:279
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:146
+msgid "Default Blank Cell Colour"
+msgstr "Προεπιλεγμένο χρώμα κενού κελιού"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:180
+msgid "Default Focused Cell Colour"
+msgstr "Προεπιλεγμένο χρώμα εστιασμένου κελιού"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:163
+msgid "Default Highlighted Cell Colour"
+msgstr "Προεπιλεγμένο χρώμα επισημασμένου κελιού"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:38
+msgid "Default settings for the user Menu"
+msgstr "Προεπιλεγμένες ρυθμίσεις για το μενού χρήστη"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:22
+msgid "Default Sizes - Device / Fonts / Cells"
+msgstr "Προεπιλεγμένα μεγέθη - Συσκευή / Γραμματοσειρές / Κελιά"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:55
+msgid "Desktop"
+msgstr "Επιτραπέζια επιφάνεια εργασίας"
+
+#: templates/PcPuzzleCrosswordTemplate_Info.php:36
+msgid "Direction can also be changed by clicking on Space / Enter key"
+msgstr ""
+"Η κατεύθυνση μπορεί επίσης να αλλάξει κάνοντας κλικ στο πλήκτρο Space / Enter"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Info.php:56
+msgid ""
+"Do not add \"script\" tags. Content will be sanitized as per post html "
+"allowed tags."
+msgstr ""
+"Μην προσθέτετε ετικέτες \"script\". Το περιεχόμενο θα καθαριστεί σύμφωνα με "
+"τις επιτρεπόμενες ετικέτες της html ανάρτησης."
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:124
+msgid "Domain License"
+msgstr "Άδεια χρήσης τομέα"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:571
+msgid "Down Clue"
+msgstr "Κάτω στοιχείο"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:289
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:124
+msgid "Down Clues"
+msgstr "Κάτω ενδείξεις"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:189
+msgid "Download Empty Puzzle as PDF"
+msgstr "Κατεβάστε το Empty Puzzle ως PDF"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:201
+msgid "Download Solved Puzzle as PDF"
+msgstr "Κατεβάστε το λυμένο παζλ ως PDF"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:354
+msgid "Draw Blanks"
+msgstr "Σχεδιάστε κενά"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:199
+msgid "Email - Report Bug (If empty, will not show in menu option)"
+msgstr ""
+"Email - Αναφορά σφάλματος (Αν είναι κενό, δεν θα εμφανιστεί στην επιλογή "
+"μενού)"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:77
+msgid "Enter the license number"
+msgstr "Πληκτρολογήστε τον αριθμό της άδειας"
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:769
+msgid "Error"
+msgstr "Σφάλμα"
+
+#: includes/PcPuzzleCrossword_Plugin.php:91
+msgid "Error Parsing Data"
+msgstr "Σφάλμα ανάλυσης δεδομένων"
+
+#: advanced-crossword.php:41
+msgid ""
+"Error: Plugin \"Puzzle Crossword\" requires a higher version of PHP to be "
+"running."
+msgstr "Σφάλμα: Απαιτείται υψηλότερη έκδοση της PHP για να εκτελεστεί."
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:311
+msgid "Focused Cell Border"
+msgstr "Επικεντρωμένο σύνορο κυττάρων"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:283
+msgid "Focused Cell Colour Border"
+msgstr "Επικεντρωμένο κελί Χρώμα Border"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:253
+msgid "Font Size Cell Clue Number Text"
+msgstr "Μέγεθος γραμματοσειράς Κελί Κείμενο αριθμού ενδείξεων"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:243
+msgid "Font Size Cell Text"
+msgstr "Μέγεθος γραμματοσειράς Κείμενο κελιού"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:27
+msgid "General"
+msgstr "Γενικά"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:55
+msgid "General Labels"
+msgstr "Γενικές ετικέτες"
+
+#: includes/PcPuzzleCrossword_Includes.php:33
+msgid "Get Premium License"
+msgstr "Αποκτήστε άδεια Premium"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:309
+msgid "Highlighted Cells"
+msgstr "Επισημασμένα κελιά"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:273
+msgid "Highlighted Cells Colour"
+msgstr "Επισημασμένα κελιά Χρώμα"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:340
+msgid "How to play the puzzle and customize it"
+msgstr "Πώς να παίξετε το παζλ και να το προσαρμόσετε"
+
+#: templates/PcPuzzleCrosswordTemplate_Info.php:24
+msgid "How to play the puzzle!"
+msgstr "Πώς να παίξετε το παζλ!"
+
+#: includes/PcPuzzleCrossword_Plugin.php:92
+#: includes/w/W_PcPuzzleCrosswords_View.php:33
+msgid "Id"
+msgstr "Id"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:314
+msgid "If left empty no input restriction is applied."
+msgstr "Εάν παραμείνει κενό, δεν εφαρμόζεται κανένας περιορισμός εισόδου."
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:30
+msgid "IMPORTANT"
+msgstr "ΣΗΜΑΝΤΙΚΟ"
+
+#: includes/PcPuzzleCrossword_Plugin.php:95
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:72
+msgid "Info"
+msgstr "Πληροφορίες"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:365
+msgid "Input Answer Cell"
+msgstr "Κελί απάντησης εισόδου"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:510
+msgid "Inside Print Page - Company Logo - .jpeg/.png (can be left blank)"
+msgstr ""
+"Εσωτερική σελίδα εκτύπωσης - Λογότυπο εταιρείας - .jpeg/.png (μπορεί να "
+"παραμείνει κενό)"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:500
+msgid "Inside Print Page - Company Name (can be left blank)"
+msgstr ""
+"Εσωτερική σελίδα εκτύπωσης - Όνομα εταιρείας (μπορεί να παραμείνει κενό)"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:329
+msgid "Invalid Character, no symbols or numbers allowed"
+msgstr "Μη έγκυρος χαρακτήρας, δεν επιτρέπονται σύμβολα ή αριθμοί"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:202
+msgid "Invalid Email"
+msgstr "Μη έγκυρο email"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:376
+msgid "Invalid Input Character"
+msgstr "Μη έγκυρος χαρακτήρας εισόδου"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:64
+msgid "Labels"
+msgstr "Ετικέτες"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:48
+msgid "Laptop"
+msgstr "Φορητός υπολογιστής"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:145
+msgid "Latest Version Available"
+msgstr "Τελευταία διαθέσιμη έκδοση"
+
+#: includes/PcPuzzleCrossword_Plugin.php:24
+#: includes/w/W_PcPuzzleCrosswords_License.php:59
+msgid "License"
+msgstr "Άδεια"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:114
+msgid "License Active"
+msgstr "Άδεια Ενεργή"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:164
+msgid "License Date last checked"
+msgstr "Άδεια Ημερομηνία τελευταίου ελέγχου"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:178
+msgid ""
+"License is valid. Thank you for using our product. We much appreciate it."
+msgstr ""
+"Η άδεια ισχύει. Σας ευχαριστούμε για τη χρήση του προϊόντος μας. Το "
+"εκτιμούμε πολύ."
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:104
+msgid "License Version"
+msgstr "Έκδοση άδειας χρήσης"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:87
+msgid "Licensing Server Url"
+msgstr "Url διακομιστή αδειοδότησης"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:297
+msgid "Menu"
+msgstr "Μενού"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:64
+msgid "Menu Label"
+msgstr "Ετικέτα μενού"
+
+#: advanced-crossword.php:42
+msgid "Minimal version of PHP required: "
+msgstr "Απαιτείται ελάχιστη έκδοση της PHP:"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:34
+msgid "Mobile"
+msgstr "Κινητό"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:34
+#: includes/w/W_PcPuzzleCrosswords_View.php:233
+msgid "Name"
+msgstr "Όνομα"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:412
+msgid "Navigate with the Arrow (up, down, left, right)"
+msgstr "Πλοήγηση με τα βέλη (πάνω, κάτω, αριστερά, δεξιά)"
+
+#: includes/PcPuzzleCrossword_Plugin.php:100
+#: includes/w/W_PcPuzzleCrosswords_View.php:24
+msgid "New Crossword"
+msgstr "Νέο σταυρόλεξο"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:326
+#: includes/w/W_PcPuzzleCrosswords_License.php:21
+#: includes/w/W_PcPuzzleCrosswords_View.php:121
+msgid "No"
+msgstr "Όχι"
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:207
+msgid "No message set."
+msgstr "Δεν έχει οριστεί μήνυμα."
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:327
+msgid "Ok, Got it!"
+msgstr "Εντάξει, το βρήκα!"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:308
+msgid "Only to characters A to Z and a to z"
+msgstr "Μόνο στους χαρακτήρες A έως Z και a έως z"
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:724
+msgid "Page not verified"
+msgstr "Σελίδα που δεν έχει επαληθευτεί"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:307
+msgid "PDF - Empty Puzzle"
+msgstr "PDF - Άδειο παζλ"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:308
+msgid "PDF - Solved Puzzle"
+msgstr "PDF - Λυμένο παζλ"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:324
+msgid ""
+"Placeholder example will restrict the input only to characters from A to Z "
+"and a to z (lowercase and uppercase)"
+msgstr ""
+"Το παράδειγμα με τον τίτλο θέσης θα περιορίσει την εισαγωγή μόνο σε "
+"χαρακτήρες από το A έως το Z και από το a έως το z (πεζά και κεφαλαία)"
+
+#: includes/PcPuzzleCrossword_Includes.php:28
+msgid "Premium Feature"
+msgstr "Χαρακτηριστικό Premium"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:43
+msgid "Print"
+msgstr "Εκτύπωση"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:310
+msgid "Print - Current State"
+msgstr "Εκτύπωση - Τρέχουσα κατάσταση"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:306
+msgid "Print - Empty Puzzle"
+msgstr "Εκτύπωση - Άδειο παζλ"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:320
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:490
+msgid "Print - Include Clues"
+msgstr "Εκτύπωση - Συμπεριλάβετε ενδείξεις"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:480
+msgid "Print Current State of the Puzzle"
+msgstr "Εκτύπωση Τρέχουσα κατάσταση του παζλ"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:470
+msgid "Print Empty Puzzle"
+msgstr "Εκτύπωση Άδειο παζλ"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:460
+msgid "Print labels"
+msgstr "Εκτύπωση ετικετών"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:293
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:104
+msgid "Puzzle"
+msgstr "Παζλ"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Info.php:22
+msgid "Puzzle Information"
+msgstr "Πληροφορίες παζλ"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:50
+msgid "Puzzle Menu"
+msgstr "Μενού παζλ"
+
+#: includes/PcPuzzleCrossword_Plugin.php:96
+msgid "Puzzle Name Required"
+msgstr "Απαιτείται όνομα παζλ"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:228
+msgid "Puzzle Name:"
+msgstr "Όνομα παζλ:"
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:759
+msgid "Puzzle not found"
+msgstr "Το παζλ δεν βρέθηκε"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:328
+msgid "Puzzle Saved Successfully"
+msgstr "Παζλ αποθηκεύτηκε επιτυχώς"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:179
+msgid "Remember My Settings"
+msgstr "Θυμηθείτε τις ρυθμίσεις μου"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:317
+msgid "Remember Settings"
+msgstr "Θυμηθείτε τις ρυθμίσεις"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:316
+msgid "Report Bug"
+msgstr "Αναφορά σφάλματος"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:312
+msgid "Reset to Default"
+msgstr "Επαναφορά στην προεπιλογή"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:301
+msgid "Restrict Input"
+msgstr "Περιορισμός εισόδου"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:335
+msgid "Reveal"
+msgstr "Αποκάλυψη"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:406
+msgid "Reveal Cell - Confirm Text"
+msgstr "Αποκάλυψη κελιού - Επιβεβαίωση κειμένου"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:416
+msgid "Reveal Clue - Confirm Text"
+msgstr "Αποκάλυψη στοιχείων - Επιβεβαίωση κειμένου"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:446
+msgid ""
+"Reveal Date Time - Denied Message (show Date and Time by adding {date_time} )"
+msgstr ""
+"Αποκάλυψη ημερομηνίας ώρας - Μήνυμα απόρριψης (εμφάνιση ημερομηνίας και ώρας "
+"με την προσθήκη {date_time} )"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:426
+msgid "Reveal Puzzle - Confirm Text"
+msgstr "Αποκάλυψη παζλ - Επιβεβαίωση κειμένου"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:332
+msgid "Reveal Selected Cell?"
+msgstr "Αποκάλυψη επιλεγμένου κελιού"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:333
+msgid "Reveal Selected Clue?"
+msgstr "Αποκαλύψτε επιλεγμένο στοιχείο"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:334
+msgid "Reveal Solved Puzzle?"
+msgstr "Αποκάλυψη λυμένου γρίφου"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:436
+msgid "Reveal Text Info"
+msgstr "Αποκάλυψη πληροφοριών κειμένου"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:238
+msgid "Rows Number"
+msgstr "Αριθμός σειρών"
+
+#: includes/PcPuzzleCrossword_Plugin.php:97
+msgid "Rows Number need to be greater than Zero"
+msgstr "Ο αριθμός σειρών πρέπει να είναι μεγαλύτερος από το μηδέν"
+
+#: includes/PcPuzzleCrossword_Plugin.php:94
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:35
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:99
+#: includes/w/W_PcPuzzleCrosswords_View.php:149
+#: includes/w/W_PcPuzzleCrosswords_View.php:207
+#: includes/w/W_PcPuzzleCrosswords_View.php:656
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:202
+#: includes/w/W_PcPuzzleCrosswords_View.php:651
+msgid "Save & Back"
+msgstr "Αποθήκευση & Επιστροφή"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:424
+msgid "Save and Generate Clues"
+msgstr "Αποθήκευση και δημιουργία ενδείξεων"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:314
+msgid "Save Progress"
+msgstr "Αποθήκευση προόδου"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:366
+msgid "Save Puzzle Text - Fading Text"
+msgstr "Αποθήκευση κειμένου παζλ - Κείμενο που ξεθωριάζει"
+
+#: includes/PcPuzzleCrossword_Plugin.php:90
+msgid "Saved"
+msgstr "Αποθηκευμένο"
+
+#: includes/PcPuzzleCrossword_Plugin.php:93
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:38
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:102
+msgid "Saving ..."
+msgstr "Εξοικονόμηση ..."
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:70
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:117
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:200
+msgid "Screen Max Width"
+msgstr "Μέγιστο πλάτος οθόνης"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Info.php:42
+msgid "See documentation / video on how to do it"
+msgstr "Δείτε τεκμηρίωση/βίντεο για το πώς να το κάνετε"
+
+#: includes/PcPuzzleCrossword_Plugin.php:20
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:25
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:298
+msgid "Settings - Customize the puzzle"
+msgstr "Ρυθμίσεις - Προσαρμογή του παζλ"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:36
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:742
+msgid "Show"
+msgstr "Εμφάνιση"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:39
+msgid "Show Answers From"
+msgstr "Εμφάνιση απαντήσεων από"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:92
+msgid "Show Cell Size Adjustment option"
+msgstr "Εμφάνιση της επιλογής Προσαρμογή μεγέθους κελιών"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:102
+msgid "Show Font Size Adjustment Option"
+msgstr "Εμφάνιση επιλογής ρύθμισης μεγέθους γραμματοσειράς"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:112
+msgid "Show Font Size Clue No Adjustment Option"
+msgstr "Εμφάνιση μεγέθους γραμματοσειράς Υπόδειξη Δεν υπάρχει επιλογή ρύθμισης"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Info.php:31
+msgid "Show Information about the Puzzle to the player"
+msgstr "Εμφάνιση πληροφοριών σχετικά με το παζλ στον παίκτη"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Info.php:41
+msgid ""
+"Show Information from Template (custom html in case the editor does not work)"
+msgstr ""
+"Εμφάνιση πληροφοριών από το πρότυπο (προσαρμοσμένη html σε περίπτωση που ο "
+"επεξεργαστής δεν λειτουργεί)"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:25
+msgid "Show Menu to front end users"
+msgstr "Εμφάνιση μενού στους χρήστες του front end"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:67
+msgid "Show Print Current State of Puzzle"
+msgstr "Εμφάνιση εκτύπωσης Τρέχουσα κατάσταση του παζλ"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:57
+msgid "Show Print Empty Puzzle"
+msgstr "Εμφάνιση Εκτύπωση Άδειο παζλ"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Menu.php:47
+msgid "Show Remember Settings"
+msgstr "Εμφάνιση ρυθμίσεων Remember Settings (Απομνημόνευση ρυθμίσεων)"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:319
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:223
+msgid "Show Timer"
+msgstr "Εμφάνιση χρονοδιακόπτη"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings.php:57
+msgid "Sizes"
+msgstr "Μεγέθη"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:305
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:212
+msgid "Skip Filled Cells"
+msgstr "Παράλειψη γεμισμένων κελιών"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:134
+msgid "Support & Updates End Date"
+msgstr "Ημερομηνία λήξης υποστήριξης και ενημερώσεων"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Sizes.php:41
+msgid "Tablet"
+msgstr "Tablet"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:303
+msgid "Text Size"
+msgstr "Μέγεθος κειμένου"
+
+#: includes/PcPuzzleCrossword_LifeCycle.php:811
+msgid "The page did not pass the verification test"
+msgstr "Η σελίδα δεν πέρασε τον έλεγχο επαλήθευσης"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:285
+msgid "Time"
+msgstr "Χρόνος"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:374
+msgid "Toggle Cells No"
+msgstr "Εναλλαγή κελιών Όχι"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:319
+msgid "Use Javascript Regular expression to Restrict input:"
+msgstr "Χρήση Javascript Regular expression για τον περιορισμό της εισόδου:"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:33
+msgid "User Menu"
+msgstr "Μενού χρήστη"
+
+#: includes/w/W_PcPuzzleCrosswords_Settings_Labels.php:140
+msgid "User Menu Labels"
+msgstr "Ετικέτες μενού χρήστη"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:189
+msgid "Validate License"
+msgstr "Επικύρωση άδειας"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:14
+msgid "Version"
+msgstr "Έκδοση"
+
+#: includes/w/W_PcPuzzleCrosswords_License.php:153
+msgid "View"
+msgstr "Προβολή"
+
+#: includes/w/W_PcPuzzleCrosswords_View.php:259
+msgid "View Answers From:"
+msgstr "View Answers From:"
+
+#: includes/PcPUzzleCrosswords_OptionsManager.php:325
+#: includes/w/W_PcPuzzleCrosswords_License.php:29
+#: includes/w/W_PcPuzzleCrosswords_View.php:120
+msgid "Yes"
+msgstr "Ναι"
+
+#: advanced-crossword.php:43
+msgid "Your server's PHP version: "
+msgstr "Η έκδοση PHP του διακομιστή σας:"
